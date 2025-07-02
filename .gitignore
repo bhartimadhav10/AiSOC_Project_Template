@@ -1,0 +1,20 @@
+# Python
+graph_rag_env/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+*.env
+
+# Node
+node_modules/
+uiet_pdfs/
+# VS Code settings
+.vscode/
+
+# Ignore a specific file
+secret.txt
+
+# Ignore all log files
+*.log
